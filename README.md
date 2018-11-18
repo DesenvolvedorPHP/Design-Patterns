@@ -1,2 +1,2 @@
-# Design-Patterns
-**Design Patterns**
+# Design Patterns
+**Design Patterns em PHP**
