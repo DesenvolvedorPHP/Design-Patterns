@@ -1,3 +1,3 @@
-# Design Patterns
+# PHP Basics
 
 > PHP Basics
